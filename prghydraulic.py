@@ -92,7 +92,6 @@ class DimensionExtension:
     MM_TO_M = 0.001
     M3H_TO_M3S = 0.000277778
     LS_TO_M3S = 0.001
-    MWC_TO_PA = 9806.805923311 # meter water column to Pa
     # Standard dimension:
     X_DMN = [
         MM_TO_M,  # * mm -> m
